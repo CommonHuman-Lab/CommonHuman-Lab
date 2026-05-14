@@ -1,6 +1,8 @@
-# CommonHuman-Lab
+# 🐙 CommonHuman-Lab
 
-Security tools built for penetration testers and bug bounty hunters — no Burp license required.
+Open-source offensive security & AI tooling ⚡
+
+Building weird, powerful, self-hostable tools for hackers, defenders, researchers & curious humans.
 
 ---
 
@@ -35,5 +37,15 @@ pip install stingxss breachsql
 | [commonhuman-cli](https://pypi.org/project/commonhuman-cli/) | Shared CLI argument handling and output formatting |
 
 ---
+
+🌿 Why?
+
+Because security tooling should be:
+
+- Transparent ✅
+- Self-hostable ✅
+- Fast ✅
+- Experimental ✅
+- Actually fun to use ✅
 
 All tools are licensed under [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html).
