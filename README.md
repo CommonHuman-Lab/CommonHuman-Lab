@@ -11,7 +11,7 @@ Building weird, powerful, self-hostable tools for hackers, defenders, researcher
 | Tool | Description |
 |------|-------------|
 | [StingXSS](https://github.com/CommonHuman-Lab/stingxss) | Context-aware XSS scanner — reflected, DOM, stored, and confirmed browser XSS with WAF detection and evasion |
-| [BreachSQL](https://github.com/CommonHuman-Lab/breachsql) | Context-aware SQL injection scanner — error-based, boolean-blind, time-blind, UNION, and stacked queries across six DBMS with WAF evasion |
+| [BreachSQL](https://github.com/CommonHuman-Lab/breachsql) | Fast SQL injection scanner with built-in exploitation — detect and extract in one command, across all major backends, with WAF evasion baked in. No Java. No license. Drops into a Python pipeline. |
 
 ```bash
 pip install stingxss breachsql
