@@ -37,9 +37,9 @@ Building weird, powerful, self-hostable tools for hackers, defenders, researcher
 
 | Package | Description |
 |---------|-------------|
-| [commonhuman-core](https://pypi.org/project/commonhuman-core/) | Shared HTTP engine and web crawler — session management, injection helpers, BFS crawling, and passive recon primitives |
-| [commonhuman-payloads](https://pypi.org/project/commonhuman-payloads/) | Shared payload collections, encoders, and WAF signatures |
-| [commonhuman-cli](https://pypi.org/project/commonhuman-cli/) | Shared CLI argument handling and output formatting |
+| [commonhuman-core](https://github.com/CommonHuman-Lab/commonhuman-core) | Shared HTTP engine and web crawler — session management, injection helpers, BFS crawling, and passive recon primitives |
+| [commonhuman-payloads](https://github.com/CommonHuman-Lab/commonhuman-payloads) | Shared payload collections, encoders, and WAF signatures |
+| [commonhuman-cli](https://github.com/CommonHuman-Lab/commonhuman-cli) | Shared CLI argument handling and output formatting |
 
 ---
 
