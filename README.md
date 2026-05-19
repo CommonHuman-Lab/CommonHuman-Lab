@@ -25,6 +25,14 @@ Building weird, powerful, self-hostable tools for hackers, defenders, researcher
 
 ---
 
+## Harvesters
+
+| Tool | Description |
+|------|-------------|
+| [VaultRip](https://github.com/CommonHuman-Lab/vaultrip) | Post-exploitation credential harvesting and active attack engine. |
+
+---
+
 ## Libraries
 
 | Package | Description |
