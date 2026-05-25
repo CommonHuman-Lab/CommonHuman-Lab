@@ -2,7 +2,7 @@
 
 Open-source offensive security & AI tooling ⚡
 
-Building weird, powerful, self-hostable tools for hackers, defenders, researchers & curious humans.
+Building weird, powerful, self-hostable tools for security, defenders, researchers & curious humans.
 
 ---
 
