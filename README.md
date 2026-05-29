@@ -53,5 +53,3 @@ Because security tooling should be:
 - Fast ✅
 - Experimental ✅
 - Actually fun to use ✅
-
-All tools are licensed under [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html).
