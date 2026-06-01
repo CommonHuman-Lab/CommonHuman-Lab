@@ -20,6 +20,7 @@ Building weird, powerful, self-hostable tools for security, defenders, researche
 
 | Tool | Description |
 |------|-------------|
+| [GloomProxy](https://github.com/CommonHuman-Lab/gloomproxy) | Open-source DAST platform built around a full MITM proxy — attack surface graph, distributed scanner plugins, auth orchestration, replay, workflows, and correlation in a single self-hosted UI. |
 | [OctoRig](https://github.com/CommonHuman-Lab/OctoRig) | Spin up realistic vulnerable environments for pentesting, security research, and offensive security training — with a single command. |
 | [GloamFire](https://github.com/CommonHuman-Lab/gloamfire) | Docker-native adversary simulation and detection validation framework for SOC teams, purple teams, homelabs, and detection engineers. |
 | [NyxStrike](https://github.com/CommonHuman-Lab/nyxstrike) | AI-powered offensive security orchestration — connects LLM agents to real tools and runs full attack chains from recon to exploitation |
