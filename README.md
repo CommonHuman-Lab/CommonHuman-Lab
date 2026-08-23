@@ -20,10 +20,10 @@ Building weird, powerful, self-hostable tools for security, defenders, researche
 
 | Tool | Description |
 |------|-------------|
+| [NyxStrike](https://github.com/CommonHuman-Lab/nyxstrike) | AI-powered offensive security orchestration — connects LLM agents to real tools and runs full attack chains from recon to exploitation |
 | [GloomProxy](https://github.com/CommonHuman-Lab/gloomproxy) | Open-source DAST platform built around a full MITM proxy — attack surface graph, distributed scanner plugins, auth orchestration, replay, workflows, and correlation in a single self-hosted UI. |
 | [OctoRig](https://github.com/CommonHuman-Lab/OctoRig) | Spin up realistic vulnerable environments for pentesting, security research, and offensive security training — with a single command. |
 | [GloamFire](https://github.com/CommonHuman-Lab/gloamfire) | Docker-native adversary simulation and detection validation framework for SOC teams, purple teams, homelabs, and detection engineers. |
-| [NyxStrike](https://github.com/CommonHuman-Lab/nyxstrike) | AI-powered offensive security orchestration — connects LLM agents to real tools and runs full attack chains from recon to exploitation |
 
 ---
 
@@ -32,16 +32,6 @@ Building weird, powerful, self-hostable tools for security, defenders, researche
 | Tool | Description |
 |------|-------------|
 | [VaultRip](https://github.com/CommonHuman-Lab/vaultrip) | Post-exploitation credential harvesting and active attack engine. |
-
----
-
-## Libraries
-
-| Package | Description |
-|---------|-------------|
-| [commonhuman-core](https://github.com/CommonHuman-Lab/commonhuman-core) | Shared HTTP engine and web crawler — session management, injection helpers, BFS crawling, and passive recon primitives |
-| [commonhuman-payloads](https://github.com/CommonHuman-Lab/commonhuman-payloads) | Shared payload collections, encoders, and WAF signatures |
-| [commonhuman-cli](https://github.com/CommonHuman-Lab/commonhuman-cli) | Shared CLI argument handling and output formatting |
 
 ---
 
