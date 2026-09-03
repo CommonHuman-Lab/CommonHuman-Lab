@@ -10,7 +10,7 @@ Building weird, powerful, self-hostable tools for security, defenders, researche
 
 | Tool | Description |
 |------|-------------|
-| [BreachSQL](https://github.com/CommonHuman-Lab/breachsql) | Fast SQL injection scanner with built-in exploitation — detect and extract in one command, across all major backends, with WAF evasion baked in. Drops into a Python pipeline. |
+| [BreachSQL](https://github.com/CommonHuman-Lab/breachsql) | Fast SQL injection scanner with built-in exploitation — detect and extract in one command, across all major backends, with WAF evasion baked in. |
 | [StingXSS](https://github.com/CommonHuman-Lab/stingxss) | Context-aware XSS scanner — reflected, DOM, stored, and confirmed browser XSS with WAF detection and evasion |
 | [PhaseAccess](https://github.com/CommonHuman-Lab/phaseaccess) | Open-source IDOR / BOLA scanner. Goes beyond simple ID enumeration — it understands ownership, sessions, and evidence. |
 
